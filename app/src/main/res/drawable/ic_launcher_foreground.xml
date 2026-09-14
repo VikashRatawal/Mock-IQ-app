@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gradient Trend Lines representing mock tracking records -->
+    <path
+        android:pathData="M30,76 L40,64 L52,68 L66,50 L78,54"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#FF7E40" />
+
+    <!-- Analytical Bar chart representation under exam success (Centered safe zone) -->
+    <path
+        android:pathData="M32,78 L32,68 L38,68 L38,78 Z"
+        android:fillColor="#4DFF7E40" />
+    <path
+        android:pathData="M44,78 L44,58 L50,58 L50,78 Z"
+        android:fillColor="#80FF7E40" />
+    <path
+        android:pathData="M56,78 L56,48 L62,48 L62,78 Z"
+        android:fillColor="#B3FF7E40" />
+    <path
+        android:pathData="M68,78 L68,36 L74,36 L74,78 Z"
+        android:fillColor="#FFFF7E40" />
+
+    <!-- Big Centerpiece Trophy Star representing Rank 1 and selection -->
+    <!-- Star Points center X=54, Y=34 -->
+    <path
+        android:pathData="M54,16 L58.3,27.5 L70.5,28.5 L61.2,36.5 L64,48.5 L54,41.8 L44,48.5 L46.8,36.5 L37.5,28.5 L49.7,27.5 Z"
+        android:fillColor="#FFFFFFFF" />
+
+    <path
+        android:pathData="M54,19 L57.3,28 L67,28.8 L59.6,35 L61.8,44.5 L54,39.2 L46.2,44.5 L48.4,35 L41,28.8 L50.7,28 Z"
+        android:fillColor="#FFFF7E40" />
+
+</vector>
